@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Text Tags</title>
+    </head>
+
+    <body>
+        <center>
+        <h2 >To illustrate text formatting tags</h2> 
+        </center>
+        <hr>
+
+        <marquee>This is an alternate Marquee text</marquee>
+        
+        <center>
+            This is <i>italized</i><br>
+            this is <u>underlined</u><br>
+            this is <b>bold</b><br>
+            this is <em>emphised</em><br>
+            this is <strong>strong text</strong><br>
+            this is <s>striked text</s><br>
+            this is <code>computer code</code><br>
+            this is <sup>superscript</sup>text<br>
+            this is  <sub>subscript</sub>text<br>
+            this is <small>small text</small><br>
+            this is <big>big text</big><br>
+
+        </center>    
+    </body>
+</html>
